@@ -23,4 +23,4 @@ The following recommendations was made:
 
 3. Companies and businesses should learn to use other means in packaging their products and should focus more on trying not to use plastic items to package their products as this help contribute the more plastic production waste in the environment.
 
-4.Plastic waste can be gathered and burnt to avoid been littered in the environment as most people will not think twice to discard them properly and when not properly discarded, they block drainages and water ways which sometimes leads to erosion when the rains come and contribute to the pollution of the environment.
+4. Plastic waste can be gathered and burnt to avoid been littered in the environment as most people will not think twice to discard them properly and when not properly discarded, they block drainages and water ways which sometimes leads to erosion when the rains come and contribute to the pollution of the environment.
