@@ -1,3 +1,5 @@
+**GLOBAL PLASTIC WASTE REPORT ANALYSIS FOR THE YEAR 2023**
+
 Global Plastic Waste Report Analysis for the Year 2023 is a comprehensive overview of plastic waste production, recycling rates, and environmental impact across 165 countries. The analysis was to analyze plastic waste production, recycling rates, and its environmental impact. This dataset provides a detailed analysis of global plastic waste production and management across 165 countries for the year 2023. The data encompasses multiple aspects of plastic waste handling, from production volumes to recycling efficiency and environmental risk assessment. The data set was gotten from Kaggle.com.
 
 
